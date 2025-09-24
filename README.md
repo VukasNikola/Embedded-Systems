@@ -16,7 +16,8 @@ This repository documents my journey into **embedded systems development**, from
 - Build a solid foundation in embedded programming through **hands-on projects**  
 - Develop transferable skills for **embedded engineering** and **real-time applications**  
 - Keep track of progress, lessons learned, and code examples
-- 
-## Projects
 
+## Projects
+- [FreeRTOS](Projects/FreeRTOS/README.md)
 - [I²C LCD Driver](Projects/i2c_lcd_driver/README.md)
+
